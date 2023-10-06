@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-mimirtool [![Build](https://github.com/czchen/asdf-mimirtool/actions/workflows/build.yml/badge.svg)](https://github.com/czchen/asdf-mimirtool/actions/workflows/build.yml) [![Lint](https://github.com/czchen/asdf-mimirtool/actions/workflows/lint.yml/badge.svg)](https://github.com/czchen/asdf-mimirtool/actions/workflows/lint.yml)
+# asdf-mimirtool [![Build](https://github.com/asdf-community/asdf-mimirtool/actions/workflows/build.yml/badge.svg)](https://github.com/asdf-community/asdf-mimirtool/actions/workflows/build.yml) [![Lint](https://github.com/asdf-community/asdf-mimirtool/actions/workflows/lint.yml/badge.svg)](https://github.com/asdf-community/asdf-mimirtool/actions/workflows/lint.yml)
 
 [mimirtool](https://grafana.com/docs/mimir/latest/manage/tools/mimirtool/) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -8,10 +8,12 @@
 
 # Contents
 
-- [Dependencies](#dependencies)
-- [Install](#install)
-- [Contributing](#contributing)
-- [License](#license)
+* [asdf-mimirtool  ](#asdf-mimirtool--)
+* [Contents](#contents)
+* [Dependencies](#dependencies)
+* [Install](#install)
+* [Contributing](#contributing)
+* [License](#license)
 
 # Dependencies
 
@@ -24,7 +26,7 @@ Plugin:
 ```shell
 asdf plugin add mimirtool
 # or
-asdf plugin add mimirtool https://github.com/czchen/asdf-mimirtool.git
+asdf plugin add mimirtool https://github.com/asdf-community/asdf-mimirtool.git
 ```
 
 mimirtool:
@@ -50,7 +52,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/czchen/asdf-mimirtool/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/asdf-community/asdf-mimirtool/graphs/contributors)!
 
 # License
 
