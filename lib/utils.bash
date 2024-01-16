@@ -43,7 +43,7 @@ get_arch() {
 		return
 	fi
 
-	fail "Unknown arch"
+	echo $machine
 }
 
 get_platform() {
