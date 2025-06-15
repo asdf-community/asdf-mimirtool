@@ -43,6 +43,11 @@ get_arch() {
 		return
 	fi
 
+	if [[ "$machine" =~ "aarch64" ]]; then
+		echo "arm64"
+		return
+	fi
+
 	echo $machine
 }
 
